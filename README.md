@@ -18,6 +18,20 @@ I build practical software that connects user-facing applications, backend servi
 
 ## Selected projects
 
+### Real Estate Buyer Intelligence Platform · Private project
+
+I am building an AI-assisted platform for the Egyptian real-estate market. It is designed to act more like a knowledgeable sales broker than a basic property filter: it understands buyer needs, matches them against verified inventory and payment plans, explains trade-offs, and keeps useful context across conversations.
+
+The platform separates a neutral marketplace assistant from developer-specific assistants. It also gives developers structured inventory management, lead insights, and visibility into demand that is not currently being served. The source code and commercial data remain private.
+
+**Stack:** Next.js, React, TypeScript, Supabase, PostgreSQL, OpenAI APIs, RAG, structured LLM workflows
+
+### [Philipps-Universität Marburg Chatbot](https://github.com/Salema0x/MarburgUniChatbot)
+
+A local RAG chatbot for questions about university life, study resources, departments, staff, and academic information. It collects university content, converts it into embeddings, stores it in FAISS, retrieves relevant context, and generates answers through a locally hosted Ollama model.
+
+**Stack:** Node.js, Express, LangChain, Ollama, FAISS, Puppeteer, Docker, JavaScript
+
 ### [GermanMarkt](https://gm-egy.com)
 
 A production e-commerce platform connecting Egyptian customers with German personal-care products. The system combines a buyer storefront, delivery-partner workflow, and administration portal in one application.
@@ -44,6 +58,6 @@ I am strengthening the engineering foundation required for AI Solutions Engineer
 
 **Languages:** TypeScript, JavaScript, Python, Java, SQL  
 **Frontend:** React, Next.js, Tailwind CSS, JavaFX  
-**Backend and data:** Next.js Route Handlers, Django, PostgreSQL, Supabase, Elasticsearch  
-**AI:** RAG architecture, embeddings, vector search, structured LLM workflows  
+**Backend and data:** Node.js, Express, Next.js Route Handlers, Django, PostgreSQL, Supabase, Elasticsearch, FAISS  
+**AI:** RAG architecture, LangChain, Ollama, embeddings, vector search, structured LLM workflows  
 **Engineering:** Git, GitHub, Docker, Linux, REST APIs, Playwright, Vitest, JUnit
