@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/brain-tree-profile.jpg" alt="A brain forming the roots of a tree whose branches represent expanding thoughts" width="100%">
+</p>
+
 # Abdelrahman Salem
 
 **Full-stack developer and Data Science Master's student based in Germany**
