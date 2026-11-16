@@ -34,6 +34,8 @@ A local RAG chatbot for questions about university life, study resources, depart
 
 ### [GermanMarkt](https://gm-egy.com)
 
+[Read the full-stack case study](case-studies/germanmarkt.md) · Application source remains private.
+
 A production e-commerce platform connecting Egyptian customers with German personal-care products. The system combines a buyer storefront, delivery-partner workflow, and administration portal in one application.
 
 **Stack:** Next.js, React, TypeScript, Supabase, PostgreSQL, Row Level Security, OpenAI, Playwright, Vitest
