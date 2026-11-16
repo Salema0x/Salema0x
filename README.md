@@ -18,6 +18,14 @@ I build practical software that connects user-facing applications, backend servi
 
 ## Selected projects
 
+### [GermanMarkt](https://gm-egy.com)
+
+[Read the full-stack case study](case-studies/germanmarkt.md) · Application source remains private.
+
+A production e-commerce platform connecting Egyptian customers with German personal-care products. The system combines a buyer storefront, delivery-partner workflow, and administration portal in one application.
+
+**Stack:** Next.js, React, TypeScript, Supabase, PostgreSQL, Row Level Security, OpenAI, Playwright, Vitest
+
 ### Real Estate Buyer Intelligence Platform · Private project
 
 I am building an AI-assisted platform for the Egyptian real-estate market. It is designed to act more like a knowledgeable sales broker than a basic property filter: it understands buyer needs, matches them against verified inventory and payment plans, explains trade-offs, and keeps useful context across conversations.
@@ -32,14 +40,6 @@ A local RAG chatbot for questions about university life, study resources, depart
 
 **Stack:** Node.js, Express, LangChain, Ollama, FAISS, Puppeteer, Docker, JavaScript
 
-### [GermanMarkt](https://gm-egy.com)
-
-[Read the full-stack case study](case-studies/germanmarkt.md) · Application source remains private.
-
-A production e-commerce platform connecting Egyptian customers with German personal-care products. The system combines a buyer storefront, delivery-partner workflow, and administration portal in one application.
-
-**Stack:** Next.js, React, TypeScript, Supabase, PostgreSQL, Row Level Security, OpenAI, Playwright, Vitest
-
 ### [Region-Based Image Similarity Search](https://github.com/Salema0x/Region-based-Similarity-search)
 
 A Dockerized image-search application that retrieves visually similar regions using deep hashing and Elasticsearch. It supports CPU and GPU environments and includes a Django backend, web interface, and automated tests.
@@ -48,9 +48,9 @@ A Dockerized image-search application that retrieves visually similar regions us
 
 ### [Spinfood](https://github.com/Salema0x/Spinfood)
 
-A Java application developed as a university software-engineering project. It forms participant pairs and groups according to configurable criteria and includes a JavaFX interface, JSON import/export, architecture documentation, and tests.
+A Java application developed as a university software-engineering project. It forms participant pairs and groups according to configurable criteria and includes a Swing interface, CSV import and JSON export, architecture documentation, and tests.
 
-**Stack:** Java, JavaFX, Maven, Jackson, JUnit
+**Stack:** Java, Swing, Maven, Jackson, JUnit
 
 ## Current direction
 
@@ -59,7 +59,7 @@ I am strengthening the engineering foundation required for AI Solutions Engineer
 ## Technologies
 
 **Languages:** TypeScript, JavaScript, Python, Java, SQL  
-**Frontend:** React, Next.js, Tailwind CSS, JavaFX  
+**Frontend:** React, Next.js, Tailwind CSS, Swing  
 **Backend and data:** Node.js, Express, Next.js Route Handlers, Django, PostgreSQL, Supabase, Elasticsearch, FAISS  
 **AI:** RAG architecture, LangChain, Ollama, embeddings, vector search, structured LLM workflows  
 **Engineering:** Git, GitHub, Docker, Linux, REST APIs, Playwright, Vitest, JUnit
