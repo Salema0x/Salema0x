@@ -91,20 +91,4 @@ The project demonstrates a full-stack implementation spanning customer-facing UI
 
 Further work identified in the project documentation includes fuller refund/dispute handling and proactive buyer notifications. Operational outcomes such as user counts, revenue, conversion rates, and time saved are not published here because verified measurements have not been supplied.
 
-## Interview walkthrough
-
-Useful topics for a technical discussion:
-
-1. Follow an order from the buyer interface into server-side processing and delivery tracking.
-2. Explain the separation between route access, server authorization, and database policies.
-3. Trace how an unavailable item changes order totals and the buyer's view.
-4. Compare a pure unit test with a browser test that needs authenticated users and a configured backend.
-5. Discuss the trade-offs of a single application serving multiple user roles.
-
-## About this case study
-
-Prepared from the project's README, current dependency manifest, repository structure, and CI configuration in November 2026. It is a portfolio overview, not a public source release or a claim that every documented feature has been independently tested.
-
-**Project:** GermanMarkt  
-**Developer:** [Abdelrahman Salem](https://github.com/Salema0x)  
-**Website:** [gm-egy.com](https://gm-egy.com)
+**Source availability:** GermanMarkt is a private commercial project. This case study describes its architecture and selected implementation details without exposing application source or customer data.
